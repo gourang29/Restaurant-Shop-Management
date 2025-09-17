@@ -4,22 +4,22 @@ Due to organizational policies and client agreements, the complete codebase cann
 
 # Features
 
-Shop Reports Generation – Generate detailed product-wise reports for any given time range across all branches.
+**Shop Reports Generation** – Generate detailed product-wise reports for any given time range across all branches.
 
-Cashier Reports – Track product sales, cash collections, and cashier performance for any selected duration.
+**Cashier Reports** – Track product sales, cash collections, and cashier performance for any selected duration.
 
-Challan & Returns Management – Create challans, manage product returns between manufacturing units and branches, and generate reports.
+**Challan & Returns Management** – Create challans, manage product returns between manufacturing units and branches, and generate reports.
 
-Fast Billing System – High-performance UI/UX for quick bill generation, printing, and billing management.
+**Fast Billing System** – High-performance UI/UX for quick bill generation, printing, and billing management.
 
-Admin Management – Role-based authentication and authorization for secure access and user management.
+**Admin Management** – Role-based authentication and authorization for secure access and user management.
 
-Tax Reports – Instant GST-ready reports (monthly and yearly) generated within seconds.
+**Tax Reports** – Instant GST-ready reports (monthly and yearly) generated within seconds.
 
-Product Management – Add, update, and categorize products with ease.
+**Product Management** – Add, update, and categorize products with ease.
 
-Stock & Inventory Management – Real-time tracking of stock levels, shortages, and automated updates.
+**Stock & Inventory Management** – Real-time tracking of stock levels, shortages, and automated updates.
 
-Tablet-based Ordering – Generate Kitchen Order Tickets (KOT) instantly for faster restaurant service.
+**Tablet-based Ordering** – Generate Kitchen Order Tickets (KOT) instantly for faster restaurant service.
 
-Third-Party Integration – Seamless handling of Zomato and Swiggy orders within the system.
+**Third-Party Integration** – Seamless handling of Zomato and Swiggy orders within the system.
